@@ -1,6 +1,6 @@
 # news_app
 
-A new Flutter project.
+News App using fake Api implementation.
 
 ## Getting Started
 
